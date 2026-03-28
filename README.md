@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @Asad000007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# ☁️ Azure Zero to Hero — Asadul's Cloud Journey
 
-<!---
-Asad000007/Asad000007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Civil Engineer → Azure DevOps Engineer | Lisbon, Portugal
+
+## 🎯 Goal
+Document every hands-on Azure lab as I work toward:
+- AZ-900 (Fundamentals)
+- AZ-104 (Administrator)
+- AZ-400 (DevOps Engineer)
+
+## 📁 What's Inside
+
+| Folder | Topic | Status |
+|--------|-------|--------|
+| 01-Networking | VNet, Bastion, Firewall, NSG | ✅ Done |
+| 02-Virtual-Machines | VM deploy, Nginx, Jenkins | ✅ Done |
+| 03-ARM-Templates | Parameters, Variables, Outputs | 🔄 In Progress |
+| 04-Shell-Scripting | Bash, healthcheck scripts | ✅ Done |
+| 05-IAM | Managed Identity, Blob access | ✅ Done |
+| 06-DevOps-CI-CD | Pipelines, Jenkins | 🔜 Coming |
+
+## 🛠️ Tools Used
+Azure CLI · PowerShell · ARM Templates · Bash · GitHub
+
+## 📫 Contact
+[LinkedIn](your-link) | asadul@email.com
