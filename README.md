@@ -23,4 +23,4 @@ Document every hands-on Azure lab as I work toward:
 Azure CLI · PowerShell · ARM Templates · Bash · GitHub
 
 ## 📫 Contact
-[LinkedIn](your-link) | asadul@email.com
+[LinkedIn](https://www.linkedin.com/in/md-asadul-howlader-96aa821b9/) | mdhow0007@gmail.com
